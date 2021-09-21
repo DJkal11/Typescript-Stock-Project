@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link
-      href="https://fonts.googleapis.com/css?family=Architects+Daughter&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="/stock-app/public/Styles.css" />
-    <style>
-     
-     body {
+body {
   background-color: #00cf79b4;
   min-height: 70vh;
   padding: 1rem;
@@ -184,13 +173,3 @@ select {
   padding-bottom: 1rem;
   padding-top: 1rem;
 }
-
-    </style>
-    
-    <title>React App</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script src="/stock-app/src/index.tsx" type="text/tsx"></script>
-  </body>
-</html>
